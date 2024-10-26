@@ -28,7 +28,7 @@
 
 - 💬 Open to discussions, inquiries, and knowledge sharing.
 
-- 📫Feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+- 📫Feel free to contact me at [-](-).
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me:
 <h3>👋 Hello, I am <b>Federico Barberis</b> and I am a software developer.</h3>
