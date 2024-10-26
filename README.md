@@ -42,7 +42,7 @@
 <p>Additionally, I enjoy <b>reading</b>, <b>sports</b>, <b>art</b>, and <b>technology</b>, which complements my professional profile.</p>
 
 <h3>📫 Connect with Me</h3>
-<p>Feel free to contact me on <a href="https://www.linkedin.com/in/your_profile" target="_blank">LinkedIn</a> or via <a href="mailto:your_email@example.com">email</a> to discuss ideas or collaborate on projects. I am excited to connect with like-minded people!</p>
+<p>Feel free to contact me on <a href="https://www.linkedin.com/in/federico-barberis-840550309/" target="_blank">LinkedIn</a> or via <a href="-">email</a> to discuss ideas or collaborate on projects. I am excited to connect with like-minded people!</p>
 
 
 
