@@ -1,5 +1,6 @@
 
 <header style="display: flex; align-items: center;">
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
     width="40" 
     alt="Fede Barberis" 
@@ -29,30 +30,84 @@
 
 - 📫Feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
-<h3>👋 Hola, soy <b>Federico Barberis</b> y soy desarrollador de software.</h3>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me:
+<h3>👋 Hello, I am <b>Federico Barberis</b> and I am a software developer.</h3>
 
-<p>Soy un amante de la programación, la tecnología y la literatura. Me esfuerzo por cuidar tanto mi cuerpo como mi mente para mantenerme siempre al 100%.</p>
+<p>I am a lover of programming, technology, and literature. I strive to take care of both my body and mind to stay at 100% all the time.</p>
 
-<p>He trabajado con diversas tecnologías a lo largo de <b>8 años</b>, y actualmente me enfoco en <b>Python</b> y <b>Java</b>, mientras estoy aprendiendo <b>Rust</b>. Mis proyectos más importantes suelen desarrollarse en repositorios locales, pero estoy decidido a expandir mis habilidades utilizando <b>GitHub</b> y a contribuir en proyectos de código abierto.</p>
+<p>I have worked with various technologies over the course of <b>8 years</b>, and I am currently focusing on <b>Python</b> and <b>Java</b>, while learning <b>Rust</b>. My most important projects are usually developed in local repositories, but I am determined to expand my skills using <b>GitHub</b> and contribute to open-source projects.</p>
 
-<p>Mi sueño es aportar valor al sector y facilitar la vida de las personas a través de mis contribuciones. Poseo excelentes habilidades blandas y siempre busco la excelencia en todo lo que hago.</p>
+<p>My dream is to add value to the sector and make people's lives easier through my contributions. I possess excellent soft skills and always strive for excellence in everything I do.</p>
 
-<p>Además, disfruto de <b>lectura</b>, <b>deportes</b>, <b>arte</b> y <b>tecnología</b>, lo cual complementa mi perfil profesional.</p>
+<p>Additionally, I enjoy <b>reading</b>, <b>sports</b>, <b>art</b>, and <b>technology</b>, which complements my professional profile.</p>
 
-<h3>📫 Conéctame</h3>
-<p>No dudes en contactarme en <a href="https://www.linkedin.com/in/tu_perfil" target="_blank">LinkedIn</a> o por <a href="mailto:tu_email@ejemplo.com">correo electrónico</a> para discutir ideas o colaborar en proyectos. ¡Estoy emocionado de conectar con personas afines!</p>
+<h3>📫 Connect with Me</h3>
+<p>Feel free to contact me on <a href="https://www.linkedin.com/in/your_profile" target="_blank">LinkedIn</a> or via <a href="mailto:your_email@example.com">email</a> to discuss ideas or collaborate on projects. I am excited to connect with like-minded people!</p>
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language: </b>
+<div align="center">
+  <a href="https://docs.python.org/3/library/index.html" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/java-1174952.png?f=webp&w=256" alt="Java" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://doc.rust-lang.org/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/rust-3031093.png?f=webp&w=256" alt="Rust" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://www.sqlite.org/docs.html" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/sqlite-282687.png?f=webp&w=256" alt="SQLite" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-3030165.png?f=webp&w=256" alt="MySQL" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-1175138.png?f=webp&w=256" alt="MongoDB" width="100" style="margin: 10px;">
+  </a>
+</div>
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
+                width="28" /> My Tools</h2>
+<div align="center">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-logo-icon-download-in-svg-png-gif-file-formats--programming-language-pack-logos-icons-1174928.png?f=webp&w=256" alt="Linux" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-2048x2048-21jvoi4h.png" alt="Neovim" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-git-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175218.png?f=webp&w=256" alt="Git" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-language-pack-logos-icons-1175229.png?f=webp&w=256" alt="Docker" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-kubernets-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-14-pack-icons-283489.png?f=webp&w=256" alt="Kubernetes" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://about.gitlab.com/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-gitlab-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-language-pack-logos-icons-1175217.png?f=webp&w=256" alt="GitLab" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-download-in-svg-png-gif-file-formats--70-flat-social-icons-color-pack-logos-432516.png?f=webp&w=256" alt="GitHub" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030133.png?f=webp&w=256" alt="Figma" width="100" style="margin: 10px;">
+  </a>
+  <a href="https://obsidian.md/" target="_blank">
+    <img src="https://forum.obsidian.md/uploads/default/original/2X/b/b0c1ac65c3b9c3c94389bbfa5466dae781e06d85.png" alt="Obsidian" width="100" style="margin: 10px;">
+  </a>
+</div>
+
 
 
 
 
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving</h2></summary>
+    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> My Networks.</h2></summary>
   </ul>
 </div>
 
@@ -62,10 +117,3 @@
 </p>
 
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> My Tools</h2>
-
-
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via 
