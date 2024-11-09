@@ -35,7 +35,7 @@
 
 <p>I am a lover of programming, technology, and literature. I strive to take care of both my body and mind to stay at 100% all the time.</p>
 
-<p>I have worked with various technologies over the course of <b>8 years</b>, and I am currently focusing on <b>Python</b> and <b>Java</b>, while learning <b>Rust</b>. My most important projects are usually developed in local repositories, but I am determined to expand my skills using <b>GitHub</b> and contribute to open-source projects.</p>
+<p>I have worked with various technologies over the course of <b>years</b>, and I am currently focusing on <b>Python</b> and <b>Java</b>, while learning <b>Rust</b>. My most important projects are usually developed in local repositories, but I am determined to expand my skills using <b>GitHub</b> and contribute to open-source projects.</p>
 
 <p>My dream is to add value to the sector and make people's lives easier through my contributions. I possess excellent soft skills and always strive for excellence in everything I do.</p>
 
